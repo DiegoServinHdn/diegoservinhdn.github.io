@@ -1,0 +1,27 @@
+:root{
+    --xalblack: #231f20
+}
+
+
+
+.bg-black {
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+    background-color: var(--xalblack);
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0);
+}
+
+.dosis {
+    font-family: 'Dosis', sans-serif;
+}
+
+.blacklink {
+    color: black;
+    text-decoration: none;
+}
+
+.whitetext {
+    color: white;
+}
